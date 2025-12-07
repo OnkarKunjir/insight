@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">insight</string>
+    <string name="app_name">InSight</string>
+    <string name="new_transaction">New transaction</string>
 </resources>
